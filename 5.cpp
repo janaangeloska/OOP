@@ -23,7 +23,7 @@
 Да се обезбедат сите дополнителни методи потребни за правилно функционирање на програмата. (10 поени)*/
 
 //NOTICE:
-//courses ne prifakja nullptr, NULL ili string za default vrednost vo constructor i ne moze da se kombinira 2-in-1 Constructor zatoa se iskomentirani
+//courses ne prifakja nullptr, NULL ili string za default vrednost vo constructorot (vo ovaa zadaca) i ne moze da se kombinira 2-in-1 Constructor zatoa se iskomentirani
 //ima greshka vo Expected za update metodot i zatoa vo if-ot e dodadeno !=17 inace ne treba (ne ni smee) da stoi tamu za vo normalen slucaj da funkcionira pravilno
 //napraven e i cast so (char *) kaj throwing exception bidejkji ne se prifakja bez toa
 
