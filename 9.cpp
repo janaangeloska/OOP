@@ -20,6 +20,8 @@
 Напомена: Сите променливи на класите се чуваат како приватни.
 Да се обезбедат сите потребни функции за правилно функционирање на програмата. (5 поени)*/
 
+//NOTICE: vidi try i catch vo konstruktorot na PhDStudent
+
 #include<iostream>
 #include<cstring>
 using namespace std;
