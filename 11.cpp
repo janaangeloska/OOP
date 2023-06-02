@@ -14,7 +14,7 @@
 (Напомена: Во низата од претстави која се проследува како аргумент во функциите prihod и brojPretstaviNaDelo може да имаме повеќе претстави за едно исто дело)
 Целосна функционалност на задачата (5 поени)*/
 
-//NOTICE: pazi na delenjeto na godina i 100 za da go dobiesh vekot kako shto se bara vo zadachata (prm: 2000/100=20 ama toa e 21vi vek)
+//NOTICE: pazi pri delenjeto na godina i 100 za da go dobiesh vekot kako shto se bara vo zadachata (prm: 2000/100=20-> 21vi vek)
 
 
 #include<iostream>
