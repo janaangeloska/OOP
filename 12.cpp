@@ -10,7 +10,8 @@ operatoror+= за додавање на нов уред во сервисот.(5
 Функција pecatiUredi со која се печатат сите уреди со времето потребно за нивната проверка во сервисот (5 поени).
 Да се обезбедат сите дополнителни методи потребни за правилно функционирање на програмата. (5 поени)*/
 
-
+//NOTICE: ednash vo tekstot e napishano deka vrednostite treba da se 2chasa i 1.5chas a vo narednite redovi e napishano da bidat dvete karakteristiki po 2 chasa,
+//treba da se primeni vtoroto t.e. "2 часа доколку уредот е понов од 2015 + 2 часа доколу уредот е лаптоп"
 
 #include <iostream>
 #include <cstring>
