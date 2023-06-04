@@ -18,8 +18,8 @@
 а како резултат ги печати информациите за пицата со највисока продажна цена. Ако има повеќе пици со иста највисока цена, се печати првата. (10 поени)
 Да се дефинираат потребните конструктори и методи во класите за правилно функционирање на програмата. (5 поени)*/
 
-//NOTICE: vo test primerite na courses ima greshka vo expected, inace tochno raboti kodot
-//ima mal error i so nwf i wf ama so smena na default vrednost vo constructor bi trebalo da se popravi
+//NOTICE: ima mal error so bool na nwf i wf ama so smena na default vrednost vo constructor bi trebalo da se popravi
+//go popravija errorot vo expected, sega raboti tochno
 
 #include <cstring>
 #include <iostream>
